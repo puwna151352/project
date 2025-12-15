@@ -23,7 +23,7 @@ import {
   History,
   FileSearch // For Appraisal icon
 } from 'lucide-react';
-import { Sidebar } from '../../../components/sidebar';
+import { Sidebar } from '../../../../components/sidebar';
 
 // --- Types ---
 type OrderHistory = {
@@ -395,7 +395,6 @@ const CustomerManagement = () => {
                         )}
                     </div>
                 </div>
-
             </div>
         )}
       </Modal>

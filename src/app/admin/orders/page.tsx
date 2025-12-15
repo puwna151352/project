@@ -26,7 +26,7 @@ import {
   MapPin,
   Phone
 } from 'lucide-react';
-import { Sidebar } from '../../../components/sidebar';
+import { Sidebar } from '../../../../components/sidebar';
 
 // --- Types ---
 type OrderStatus = "pending_payment" | "pending_production" | "in_production" | "ready_to_ship" | "shipped" | "cancelled";

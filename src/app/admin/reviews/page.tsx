@@ -22,7 +22,7 @@ import {
   Image as ImageIcon,
   Quote
 } from 'lucide-react';
-import { Sidebar } from '../../../components/sidebar';
+import { Sidebar } from '../../../../components/sidebar';
 
 // --- Types ---
 type Review = {

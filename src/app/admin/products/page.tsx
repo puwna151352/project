@@ -23,7 +23,7 @@ import {
   Shapes,
   Image as ImageIcon
 } from 'lucide-react';
-import { Sidebar } from '../../../components/sidebar';
+import { Sidebar } from '../../../../components/sidebar';
 
 // --- Types (Adapted from your ProductManagement.tsx) ---
 type Product = {
